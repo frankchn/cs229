@@ -101,59 +101,19 @@ We are tracking the following information for all users on the online Applied
 \end_layout
 
 \begin_layout Enumerate
-Student login time and frequency
-\end_layout
-
-\begin_layout Enumerate
-Student homework and assignment / quiz submission frequency and result,
- including options selected and original programming submission.
-\end_layout
-
-\begin_layout Enumerate
-Every page visited by each student on the site.
-\end_layout
-
-\begin_layout Enumerate
-All video views and downloads by students on the site
-\end_layout
-
-\begin_layout Enumerate
-All video seek, pause, speeding up and slowing down actions performed on
- the site by each student.
-\end_layout
-
-\begin_layout Enumerate
-Student posting on discussion forums, along with community scores of these
- posts.
-\end_layout
-
-\begin_layout Standard
-We have collected over 50 million rows of data detailing these five actions
- over the past five weeks.
+User login time and frequency
 \end_layout
 
 \begin_layout Section
 Prediction Tasks
 \end_layout
 
-\begin_layout Standard
-We have selected the following prediction tasks
-\end_layout
-
 \begin_layout Section
 Features Extracted
 \end_layout
 
-\begin_layout Standard
-We have extracted the following features from the data
-\end_layout
-
 \begin_layout Section
 Task Results
-\end_layout
-
-\begin_layout Standard
-...
 \end_layout
 
 \begin_layout Section
@@ -161,7 +121,33 @@ Analysis
 \end_layout
 
 \begin_layout Standard
-....
+Online learning presents itself as a solution to spread knowe..largescale
+ ...
+ Because hings are online, we can do very fine grained user tracking and
+ monitoring.
+ This provides with an opportuninty to analyze the...
+ In this project, we are exploring methods to apply machine learning for
+ data analysis on the user logs generated on the ml-db class websites
+\end_layout
+
+\begin_layout Standard
+Information tracked on websites
+\end_layout
+
+\begin_layout Standard
+Prediction tasks
+\end_layout
+
+\begin_layout Standard
+Features extracted
+\end_layout
+
+\begin_layout Standard
+Task results
+\end_layout
+
+\begin_layout Standard
+Analysis
 \end_layout
 
 \end_body
